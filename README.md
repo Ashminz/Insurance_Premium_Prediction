@@ -10,7 +10,7 @@ To give people an estimate of how much they need based on their individual healt
 
 * Loading the dataset using Pandas and performed basic checks like the data type of each column and having any missing values.
 Performed Exploratory data analysis:
-* Visualized each predictor or independent feature with the target feature and found that there's a direct proportionality between cement and the target feature while there's an inverse proportionality between water and the target feature.
+* Visualized each predictor or independent feature with the target feature.
 * To get even more better insights, plotted both Pearson and Spearman correlations, which showed the same results as above.
 the distribution of the target feature, expenses which was in Normal distribution with a very little right skewness.
 * Checked for the presence of outliers in all the columns
