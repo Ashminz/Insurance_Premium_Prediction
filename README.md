@@ -19,4 +19,6 @@ the distribution of the target feature, expenses which was in Normal distributio
 * Next, tried with various tree based models, performed hyper parameter tuning using the GridSearchCV and found the best hyperparameters for each model. Then, picked the top most features as per the feature importance by an each model. Models, evaluated on both the training and testing data and recorded the performance metrics.
 * Based on the performance metrics of both the linear and the tree based models, XGBoost regressor performed the best, followed by the random forest regressor.
 * Deployment: Deployed the XGBoost regressor model using Flask, which works in the backend part while for the frontend UI Web page, used HTML.
+# Analysis based on different model
 
+![image](https://user-images.githubusercontent.com/76057261/174071249-8cdbe133-b45e-4232-b7fe-cf41a8586043.png)
